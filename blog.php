@@ -13,7 +13,7 @@ $page ++;
                 <div class="breadcumb">
                     <a href="index.php">Trang chủ</a>
                     <span><i class='bx bxs-chevrons-right'></i></span>
-                    <a href="./blog.php">Tất cả Blog</a>
+                    <a href="./blog.php">Tất cả Blog của AndevShop</a>
                 </div>
             </div>
             
