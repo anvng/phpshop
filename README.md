@@ -12,3 +12,7 @@
 - Edit the number of orders to buy
 - Update personal information
   <br> ...
+----------------
+## Support tools:
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Xampp](https://www.apachefriends.org/download.html)
