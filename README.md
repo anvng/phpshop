@@ -1,5 +1,6 @@
 # This is a subject project for reference and learning purposes. The project is built in PHP language and uses Mysql database.
-## With main functions
+---------
+## Feature:
 ### Admin:
 - Add, delete, edit products
 - Blog site management
